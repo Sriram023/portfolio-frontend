@@ -131,7 +131,7 @@ function Contact() {
           </div>
 
           <a
-            href="mailto:your-email@example.com"
+            href="mailto:Sriramravichandran7@gmail.com"
             className="contact-button"
           >
             <span>START A PROJECT</span>
